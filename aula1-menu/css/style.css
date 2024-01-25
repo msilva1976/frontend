@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+html,body{
+    height: 100%;
+
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    width: 900px;
+    
+    margin: 20px auto;
+    text-align: center;
+    
+    
+}
+.menu > a{
+    background-color: blue;
+    color:white;
+    font-size: 20px;
+    margin: 0 5px 5px 0;
+    text-decoration: none;
+    border:1px solid blue;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+/*estilo para o contudo do artigo que esta no site*/
+
+
+.center{
+    width: 1280px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: gray;
+    box-sizing: border-box;
+
+}
+
+.artigo{
+    
+   
+
+}
+.artigo h1{
+    color: rgb(66,149, 244);
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+
+}
+/*estilizando os links*/
+.tipo_1{
+    color: rgb(100,100,100 );
+
+
+}
+.linktipo1{
+    font-size: 30px;
+}
